@@ -6,7 +6,7 @@ import re
 st.set_page_config(page_title="NeuroRead", layout="centered")
 
 st.title("🧠 NeuroRead")
-st.subheader("RSVP-Based Speed Reading & Focus Tool")
+st.subheader("Reading and Focus tool")
 
 st.write(
     "Upload a PDF and read one word at a time to improve focus, "
